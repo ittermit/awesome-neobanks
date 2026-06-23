@@ -1,0 +1,559 @@
+# Neobanks — curated list
+# Fields: name, url, description, region, countries, tags, founded, hq
+
+## Europe
+
+- name: Revolut
+  url: https://revolut.com
+  description: "Financial super app with banking, cards, crypto, stock trading, and multi-currency accounts"
+  region: Europe
+  countries: [UK, EU, US, AU, SG, IN, JP]
+  tags: [cards, crypto, transfers, savings, business, travel]
+  founded: 2015
+  hq: "London, UK"
+
+- name: N26
+  url: https://n26.com
+  description: "Mobile bank offering instant account setup, budgeting tools, and travel-friendly features"
+  region: Europe
+  countries: [DE, AT, FR, ES, IT, US, BR]
+  tags: [cards, budgeting, savings, transfers]
+  founded: 2013
+  hq: "Berlin, Germany"
+
+- name: Monzo
+  url: https://monzo.com
+  description: "UK digital bank with smart spending analytics, savings pots, and transparent fee structure"
+  region: Europe
+  countries: [UK, US]
+  tags: [cards, budgeting, savings, overdraft]
+  founded: 2015
+  hq: "London, UK"
+
+- name: Starling Bank
+  url: https://starlingbank.com
+  description: "Award-winning UK neobank for personal and business accounts with real-time notifications"
+  region: Europe
+  countries: [UK, IE]
+  tags: [cards, business, savings, overdraft]
+  founded: 2014
+  hq: "London, UK"
+
+- name: Bunq
+  url: https://bunq.com
+  description: "European neobank with a strong focus on sustainability, travel cards, and budgeting"
+  region: Europe
+  countries: [NL, DE, FR, ES, IT, BE]
+  tags: [cards, savings, eco, travel, business]
+  founded: 2012
+  hq: "Amsterdam, Netherlands"
+
+- name: Vivid Money
+  url: https://vivid.money
+  description: "German neobank offering cash back on purchases, investments, and multi-currency accounts"
+  region: Europe
+  countries: [DE, FR, ES, IT, AT]
+  tags: [cards, cashback, investments, crypto]
+  founded: 2019
+  hq: "Berlin, Germany"
+
+- name: Qonto
+  url: https://qonto.com
+  description: "Business banking platform for freelancers and SMEs across Europe"
+  region: Europe
+  countries: [FR, DE, ES, IT]
+  tags: [business, invoicing, expenses, cards]
+  founded: 2016
+  hq: "Paris, France"
+
+- name: Tide
+  url: https://tide.co
+  description: "UK business banking platform for SMEs and sole traders with expense management"
+  region: Europe
+  countries: [UK, IN]
+  tags: [business, invoicing, expenses, cards]
+  founded: 2015
+  hq: "London, UK"
+
+- name: Monese
+  url: https://monese.com
+  description: "Neobank for migrants and expats offering instant account opening without a local address"
+  region: Europe
+  countries: [UK, EU]
+  tags: [cards, transfers, expats, multi-currency]
+  founded: 2015
+  hq: "London, UK"
+
+- name: Tomorrow
+  url: https://tomorrow.one
+  description: "Sustainable German neobank that plants trees with every purchase and invests deposits ethically"
+  region: Europe
+  countries: [DE]
+  tags: [eco, savings, cards, sustainable]
+  founded: 2018
+  hq: "Hamburg, Germany"
+
+- name: C24 Bank
+  url: https://c24.de
+  description: "German neobank offering free accounts with interest-bearing features and instant payments"
+  region: Europe
+  countries: [DE]
+  tags: [cards, savings, free-account]
+  founded: 2019
+  hq: "Berlin, Germany"
+
+- name: Zopa
+  url: https://zopa.com
+  description: "UK neobank offering competitive savings, credit cards, and personal loans"
+  region: Europe
+  countries: [UK]
+  tags: [savings, credit-card, loans]
+  founded: 2004
+  hq: "London, UK"
+
+- name: Atom Bank
+  url: https://atombank.co.uk
+  description: "UK app-only bank specialising in savings accounts and mortgages with competitive rates"
+  region: Europe
+  countries: [UK]
+  tags: [savings, mortgages, fixed-term]
+  founded: 2013
+  hq: "Durham, UK"
+
+- name: Kroo
+  url: https://kroo.com
+  description: "UK social neobank with interest-bearing current accounts and group expense splitting"
+  region: Europe
+  countries: [UK]
+  tags: [cards, savings, social, budgeting]
+  founded: 2016
+  hq: "London, UK"
+
+- name: Finom
+  url: https://finom.eu
+  description: "European business banking platform with built-in invoicing, expense tracking, and cashback"
+  region: Europe
+  countries: [DE, FR, ES, IT, NL, BE]
+  tags: [business, invoicing, cashback, cards]
+  founded: 2019
+  hq: "Amsterdam, Netherlands"
+
+- name: Paysera
+  url: https://paysera.com
+  description: "Lithuanian fintech offering multi-currency accounts, cheap transfers, and payment collection"
+  region: Europe
+  countries: [LT, EU]
+  tags: [transfers, multi-currency, business, cards]
+  founded: 2004
+  hq: "Vilnius, Lithuania"
+
+- name: Monobank
+  url: https://monobank.ua
+  description: "Ukraine's largest neobank with a cashback card, instant loans, and a fully mobile experience"
+  region: Europe
+  countries: [UA]
+  tags: [cards, cashback, loans, budgeting]
+  founded: 2017
+  hq: "Kyiv, Ukraine"
+
+- name: TBC Bank (Space)
+  url: https://space.ge
+  description: "Georgian digital bank offering instant account opening, deposits, and payments"
+  region: Europe
+  countries: [GE]
+  tags: [cards, savings, transfers]
+  founded: 2016
+  hq: "Tbilisi, Georgia"
+
+- name: Kaspi Bank
+  url: https://kaspi.kz
+  description: "Kazakhstan's leading super app combining banking, marketplace, and payments"
+  region: Europe
+  countries: [KZ, AZ, UZ]
+  tags: [cards, marketplace, payments, loans]
+  founded: 2002
+  hq: "Almaty, Kazakhstan"
+
+- name: Inbank
+  url: https://inbank.eu
+  description: "Estonian neobank specialising in consumer finance, buy-now-pay-later, and deposits"
+  region: Europe
+  countries: [EE, LT, LV, PL, CZ, SK]
+  tags: [bnpl, loans, deposits, savings]
+  founded: 2015
+  hq: "Tallinn, Estonia"
+
+## Americas
+
+- name: Chime
+  url: https://chime.com
+  description: "US neobank with no monthly fees, early direct deposit, and fee-free overdraft up to $200"
+  region: Americas
+  countries: [US]
+  tags: [cards, no-fee, overdraft, early-paycheck]
+  founded: 2012
+  hq: "San Francisco, US"
+
+- name: Current
+  url: https://current.com
+  description: "US digital bank targeting Gen Z and millennials with early paycheck access and cash back"
+  region: Americas
+  countries: [US]
+  tags: [cards, cashback, early-paycheck, teen-accounts]
+  founded: 2015
+  hq: "New York, US"
+
+- name: Varo
+  url: https://varomoney.com
+  description: "First neobank to receive a US national bank charter, offering savings with high APY"
+  region: Americas
+  countries: [US]
+  tags: [cards, savings, high-apy, no-fee]
+  founded: 2015
+  hq: "San Francisco, US"
+
+- name: Dave
+  url: https://dave.com
+  description: "US neobank offering interest-free cash advances and tools to avoid overdraft fees"
+  region: Americas
+  countries: [US]
+  tags: [cash-advance, no-fee, budgeting]
+  founded: 2016
+  hq: "Los Angeles, US"
+
+- name: SoFi
+  url: https://sofi.com
+  description: "US fintech bank with high-yield savings, investing, loans, and credit cards"
+  region: Americas
+  countries: [US]
+  tags: [savings, investing, loans, credit-card]
+  founded: 2011
+  hq: "San Francisco, US"
+
+- name: Ally Bank
+  url: https://ally.com
+  description: "US online bank known for high-yield savings accounts, no-fee checking, and auto loans"
+  region: Americas
+  countries: [US]
+  tags: [savings, high-apy, no-fee, auto-loans]
+  founded: 2009
+  hq: "Detroit, US"
+
+- name: Mercury
+  url: https://mercury.com
+  description: "US business banking platform for startups and tech companies with advanced API access"
+  region: Americas
+  countries: [US]
+  tags: [business, startup, API, treasury]
+  founded: 2017
+  hq: "San Francisco, US"
+
+- name: Brex
+  url: https://brex.com
+  description: "US corporate card and spend management platform for startups and growing businesses"
+  region: Americas
+  countries: [US, CA, GB, AU, DE]
+  tags: [business, corporate-card, expenses, rewards]
+  founded: 2017
+  hq: "San Francisco, US"
+
+- name: Relay
+  url: https://relayfi.com
+  description: "US business banking platform with multiple sub-accounts for organised cash flow management"
+  region: Americas
+  countries: [US]
+  tags: [business, multi-account, small-business]
+  founded: 2018
+  hq: "Toronto, CA"
+
+- name: Novo
+  url: https://novo.co
+  description: "US business checking for small businesses with integrations to Shopify, Stripe, and QuickBooks"
+  region: Americas
+  countries: [US]
+  tags: [business, small-business, integrations]
+  founded: 2016
+  hq: "New York, US"
+
+- name: Nubank
+  url: https://nu.com.br
+  description: "Latin America's largest neobank serving Brazil, Mexico, and Colombia with credit cards and accounts"
+  region: Americas
+  countries: [BR, MX, CO]
+  tags: [cards, credit-card, loans, savings]
+  founded: 2013
+  hq: "São Paulo, Brazil"
+
+- name: Neon
+  url: https://neon.com.br
+  description: "Brazilian neobank focused on financial inclusion with free accounts and simple credit products"
+  region: Americas
+  countries: [BR]
+  tags: [cards, loans, no-fee, inclusion]
+  founded: 2016
+  hq: "São Paulo, Brazil"
+
+- name: Inter
+  url: https://inter.co
+  description: "Brazilian digital bank offering a complete financial ecosystem with investments and insurance"
+  region: Americas
+  countries: [BR, US]
+  tags: [cards, investments, insurance, marketplace]
+  founded: 1994
+  hq: "Belo Horizonte, Brazil"
+
+- name: Mercado Pago
+  url: https://mercadopago.com
+  description: "Latin America's leading fintech wallet and bank account, backed by Mercado Libre"
+  region: Americas
+  countries: [AR, BR, MX, CO, CL, PE, UY]
+  tags: [wallet, cards, transfers, merchants]
+  founded: 2003
+  hq: "Buenos Aires, Argentina"
+
+- name: Ualá
+  url: https://uala.com.ar
+  description: "Argentine neobank offering prepaid Mastercard, transfers, and financial services for underbanked"
+  region: Americas
+  countries: [AR, MX, CO]
+  tags: [cards, transfers, inclusion]
+  founded: 2017
+  hq: "Buenos Aires, Argentina"
+
+- name: Klar
+  url: https://klar.mx
+  description: "Mexican neobank with a no-fee debit card, cashback rewards, and instant credit"
+  region: Americas
+  countries: [MX]
+  tags: [cards, cashback, credit, no-fee]
+  founded: 2019
+  hq: "Mexico City, Mexico"
+
+- name: Bluevine
+  url: https://bluevine.com
+  description: "US business banking with high-yield checking and lines of credit for small businesses"
+  region: Americas
+  countries: [US]
+  tags: [business, high-apy, credit-line]
+  founded: 2013
+  hq: "Redwood City, US"
+
+## Asia-Pacific
+
+- name: Kakao Bank
+  url: https://kakaobank.com
+  description: "South Korea's largest neobank integrated with the KakaoTalk messaging ecosystem"
+  region: Asia-Pacific
+  countries: [KR]
+  tags: [cards, transfers, savings, loans]
+  founded: 2016
+  hq: "Seongnam, South Korea"
+
+- name: Toss
+  url: https://toss.im
+  description: "South Korean super app combining banking, investments, insurance, and payments"
+  region: Asia-Pacific
+  countries: [KR, VN]
+  tags: [cards, investments, insurance, transfers]
+  founded: 2013
+  hq: "Seoul, South Korea"
+
+- name: K Bank
+  url: https://kbank.co.kr
+  description: "South Korea's first internet-only bank, partnered with Kakao for convenient digital banking"
+  region: Asia-Pacific
+  countries: [KR]
+  tags: [cards, savings, loans]
+  founded: 2017
+  hq: "Seoul, South Korea"
+
+- name: WeBank
+  url: https://webank.com
+  description: "China's first internet-only bank backed by Tencent, focused on consumer and SME lending"
+  region: Asia-Pacific
+  countries: [CN]
+  tags: [loans, savings, SME, digital]
+  founded: 2014
+  hq: "Shenzhen, China"
+
+- name: MYbank
+  url: https://mybank.cn
+  description: "Chinese online bank backed by Ant Group, serving small and micro enterprises"
+  region: Asia-Pacific
+  countries: [CN]
+  tags: [SME, loans, micro-finance]
+  founded: 2015
+  hq: "Hangzhou, China"
+
+- name: Jupiter
+  url: https://jupitermoney.com
+  description: "Indian neobank offering smart savings, rewards, and insights on spending"
+  region: Asia-Pacific
+  countries: [IN]
+  tags: [cards, savings, rewards, budgeting]
+  founded: 2019
+  hq: "Bengaluru, India"
+
+- name: Fi Money
+  url: https://fi.money
+  description: "Indian neobank for salaried professionals with smart account features and investments"
+  region: Asia-Pacific
+  countries: [IN]
+  tags: [cards, savings, investments, salary]
+  founded: 2019
+  hq: "Bengaluru, India"
+
+- name: Up
+  url: https://up.com.au
+  description: "Australian neobank with beautiful design, 2Up joint accounts, and automatic savings features"
+  region: Asia-Pacific
+  countries: [AU]
+  tags: [cards, savings, budgeting, joint-accounts]
+  founded: 2017
+  hq: "Melbourne, Australia"
+
+- name: Judo Bank
+  url: https://judo.bank
+  description: "Australian challenger bank focused on relationship banking for SMEs"
+  region: Asia-Pacific
+  countries: [AU]
+  tags: [business, SME, loans, deposits]
+  founded: 2016
+  hq: "Melbourne, Australia"
+
+- name: Tonik
+  url: https://tonikbank.com
+  description: "Southeast Asia's first digital-only neobank, licensed in the Philippines"
+  region: Asia-Pacific
+  countries: [PH]
+  tags: [savings, loans, cards, high-apy]
+  founded: 2018
+  hq: "Manila, Philippines"
+
+- name: SeaBank
+  url: https://seabank.co.id
+  description: "Digital bank by Sea Group offering high-interest savings and accessible loans in Indonesia"
+  region: Asia-Pacific
+  countries: [ID, PH, VN, TH]
+  tags: [savings, loans, high-apy]
+  founded: 2021
+  hq: "Singapore"
+
+- name: GCash
+  url: https://gcash.com
+  description: "Philippines' most popular mobile wallet with banking, investments, and insurance services"
+  region: Asia-Pacific
+  countries: [PH]
+  tags: [wallet, transfers, payments, investments]
+  founded: 2004
+  hq: "Taguig, Philippines"
+
+- name: OVO
+  url: https://ovo.id
+  description: "Indonesia's leading e-wallet with payments, cashback, and financial services"
+  region: Asia-Pacific
+  countries: [ID]
+  tags: [wallet, payments, cashback, loans]
+  founded: 2017
+  hq: "Jakarta, Indonesia"
+
+## Middle East & Africa
+
+- name: Wio Bank
+  url: https://wio.io
+  description: "UAE's embedded finance platform and digital bank for businesses and consumers"
+  region: Middle East & Africa
+  countries: [AE]
+  tags: [business, embedded-finance, cards]
+  founded: 2022
+  hq: "Abu Dhabi, UAE"
+
+- name: Zand Bank
+  url: https://zand.ae
+  description: "UAE's first digital bank for corporates and SMEs, fully licensed by the Central Bank of UAE"
+  region: Middle East & Africa
+  countries: [AE]
+  tags: [business, SME, cards, corporate]
+  founded: 2021
+  hq: "Dubai, UAE"
+
+- name: Liv
+  url: https://liv.me
+  description: "UAE digital lifestyle bank by Emirates NBD targeting millennials with rewards and savings"
+  region: Middle East & Africa
+  countries: [AE]
+  tags: [cards, rewards, savings, lifestyle]
+  founded: 2017
+  hq: "Dubai, UAE"
+
+- name: YAP
+  url: https://yap.com
+  description: "UAE digital payment platform with multi-currency accounts and virtual cards"
+  region: Middle East & Africa
+  countries: [AE, NG, PK]
+  tags: [cards, virtual-cards, transfers]
+  founded: 2020
+  hq: "Abu Dhabi, UAE"
+
+- name: Kuda Bank
+  url: https://kudabank.com
+  description: "Nigeria's free digital bank offering accounts, savings, and budget-friendly transfers"
+  region: Middle East & Africa
+  countries: [NG, UK]
+  tags: [cards, savings, no-fee, transfers]
+  founded: 2019
+  hq: "Lagos, Nigeria"
+
+- name: OPay
+  url: https://opayweb.com
+  description: "Nigerian fintech super app with mobile payments, banking, and delivery services"
+  region: Middle East & Africa
+  countries: [NG, EG, PK, ET]
+  tags: [wallet, payments, transfers, merchants]
+  founded: 2018
+  hq: "Lagos, Nigeria"
+
+- name: Carbon
+  url: https://getcarbon.co
+  description: "Nigerian digital bank providing instant loans, payments, and investment products"
+  region: Middle East & Africa
+  countries: [NG, KE, GH]
+  tags: [loans, payments, investments]
+  founded: 2012
+  hq: "Lagos, Nigeria"
+
+- name: PalmPay
+  url: https://palmpay.com
+  description: "Africa-focused digital payments and banking platform with merchant acquiring"
+  region: Middle East & Africa
+  countries: [NG, GH, TZ, KE]
+  tags: [payments, transfers, merchants, cards]
+  founded: 2019
+  hq: "Lagos, Nigeria"
+
+- name: TymeBank
+  url: https://tymebank.co.za
+  description: "South Africa's award-winning digital bank focused on financial inclusion"
+  region: Middle East & Africa
+  countries: [ZA, PH]
+  tags: [cards, savings, inclusion, no-fee]
+  founded: 2018
+  hq: "Johannesburg, South Africa"
+
+- name: M-Pesa
+  url: https://mpesa.africa
+  description: "Africa's most successful mobile money platform enabling transfers, payments, and savings"
+  region: Middle East & Africa
+  countries: [KE, TZ, GH, EG, LS, MZ]
+  tags: [mobile-money, transfers, payments, savings]
+  founded: 2007
+  hq: "Nairobi, Kenya"
+
+- name: Telda
+  url: https://telda.app
+  description: "Egyptian neobank offering mobile accounts with easy onboarding and instant transfers"
+  region: Middle East & Africa
+  countries: [EG]
+  tags: [cards, transfers, savings]
+  founded: 2020
+  hq: "Cairo, Egypt"

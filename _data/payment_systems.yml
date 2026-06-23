@@ -1,0 +1,365 @@
+# Payment Systems — curated list
+# Fields: name, url, description, category, region, tags, founded, hq
+
+## Payment Gateways & Processors
+
+- name: Stripe
+  url: https://stripe.com
+  description: "Developer-first payment processing platform for online businesses and marketplaces"
+  category: Payment Gateway
+  region: Global
+  tags: [API, developers, subscriptions, e-commerce, marketplace]
+  founded: 2010
+  hq: "San Francisco, US"
+
+- name: Adyen
+  url: https://adyen.com
+  description: "Global payments platform for enterprises processing omnichannel payments worldwide"
+  category: Payment Gateway
+  region: Global
+  tags: [enterprise, omnichannel, acquiring, cards]
+  founded: 2006
+  hq: "Amsterdam, Netherlands"
+
+- name: PayPal
+  url: https://paypal.com
+  description: "World's most recognised online payment platform with buyer protection and digital wallet"
+  category: Payment Gateway
+  region: Global
+  tags: [wallet, e-commerce, marketplace, transfers]
+  founded: 1998
+  hq: "San Jose, US"
+
+- name: Checkout.com
+  url: https://checkout.com
+  description: "Cloud-native global payment processing platform with high acceptance rates"
+  category: Payment Gateway
+  region: Global
+  tags: [API, enterprise, acquiring, high-performance]
+  founded: 2012
+  hq: "London, UK"
+
+- name: Braintree
+  url: https://braintreepayments.com
+  description: "PayPal-owned payment gateway with seamless checkout for web and mobile"
+  category: Payment Gateway
+  region: Global
+  tags: [API, mobile, drop-in-UI, marketplace]
+  founded: 2007
+  hq: "Chicago, US"
+
+- name: Square
+  url: https://squareup.com
+  description: "Payment processing and business tools for in-person and online merchants"
+  category: Payment Gateway
+  region: Global
+  tags: [POS, merchants, in-person, e-commerce]
+  founded: 2009
+  hq: "San Francisco, US"
+
+- name: Worldpay
+  url: https://worldpay.com
+  description: "Global payment processing and merchant acquiring with extensive payment method coverage"
+  category: Payment Gateway
+  region: Global
+  tags: [enterprise, acquiring, global, merchants]
+  founded: 1989
+  hq: "London, UK"
+
+- name: Mollie
+  url: https://mollie.com
+  description: "European payment service provider with simple integration and 30+ payment methods"
+  category: Payment Gateway
+  region: Europe
+  tags: [API, Europe, SME, multi-method]
+  founded: 2004
+  hq: "Amsterdam, Netherlands"
+
+- name: Razorpay
+  url: https://razorpay.com
+  description: "India's leading payment gateway with support for 100+ payment methods"
+  category: Payment Gateway
+  region: Asia-Pacific
+  tags: [India, API, UPI, merchants]
+  founded: 2014
+  hq: "Bengaluru, India"
+
+- name: PayU
+  url: https://payu.com
+  description: "Leading payment company in high-growth markets across Europe, Asia, and Latin America"
+  category: Payment Gateway
+  region: Global
+  tags: [emerging-markets, acquiring, local-methods]
+  founded: 2002
+  hq: "Amsterdam, Netherlands"
+
+- name: Paddle
+  url: https://paddle.com
+  description: "Merchant of Record and payment platform for SaaS companies with global tax compliance"
+  category: Payment Gateway
+  region: Global
+  tags: [SaaS, merchant-of-record, subscriptions, tax]
+  founded: 2012
+  hq: "London, UK"
+
+- name: Mangopay
+  url: https://mangopay.com
+  description: "Payment infrastructure for marketplaces, platforms, and crowdfunding with escrow"
+  category: Payment Gateway
+  region: Europe
+  tags: [marketplace, escrow, splits, Europe]
+  founded: 2013
+  hq: "Luxembourg"
+
+## Cross-Border & FX
+
+- name: Wise
+  url: https://wise.com
+  description: "International money transfers with mid-market exchange rates and transparent fees"
+  category: Cross-Border
+  region: Global
+  tags: [transfers, FX, multi-currency, business]
+  founded: 2011
+  hq: "London, UK"
+
+- name: Payoneer
+  url: https://payoneer.com
+  description: "Global payments platform for freelancers, marketplaces, and cross-border commerce"
+  category: Cross-Border
+  region: Global
+  tags: [freelancers, marketplace, mass-payouts, FX]
+  founded: 2005
+  hq: "New York, US"
+
+- name: Airwallex
+  url: https://airwallex.com
+  description: "Global payments and financial operations platform for businesses scaling internationally"
+  category: Cross-Border
+  region: Global
+  tags: [business, FX, multi-currency, API]
+  founded: 2015
+  hq: "Melbourne, Australia"
+
+- name: Currencycloud
+  url: https://currencycloud.com
+  description: "Visa-owned API platform for cross-border payments and foreign exchange"
+  category: Cross-Border
+  region: Global
+  tags: [API, FX, business, transfers]
+  founded: 2012
+  hq: "London, UK"
+
+- name: Remitly
+  url: https://remitly.com
+  description: "Consumer-focused international money transfer service with guaranteed exchange rates"
+  category: Cross-Border
+  region: Global
+  tags: [remittances, transfers, consumer, speed]
+  founded: 2011
+  hq: "Seattle, US"
+
+- name: OFX
+  url: https://ofx.com
+  description: "International money transfer and foreign exchange for individuals and businesses"
+  category: Cross-Border
+  region: Global
+  tags: [FX, transfers, business, rates]
+  founded: 1998
+  hq: "Sydney, Australia"
+
+## Buy Now Pay Later
+
+- name: Klarna
+  url: https://klarna.com
+  description: "Sweden's leading BNPL provider with Pay Later, Pay in 3, and financing options"
+  category: BNPL
+  region: Global
+  tags: [BNPL, shopping, consumer-credit, checkout]
+  founded: 2005
+  hq: "Stockholm, Sweden"
+
+- name: Afterpay
+  url: https://afterpay.com
+  description: "Australian BNPL service (now owned by Block/Square) with pay-in-4 installments"
+  category: BNPL
+  region: Global
+  tags: [BNPL, pay-in-4, retail, consumer]
+  founded: 2014
+  hq: "Melbourne, Australia"
+
+- name: Affirm
+  url: https://affirm.com
+  description: "US BNPL leader with transparent financing, no hidden fees, and adaptive checkout"
+  category: BNPL
+  region: Americas
+  tags: [BNPL, financing, transparent, US]
+  founded: 2012
+  hq: "San Francisco, US"
+
+- name: Zilch
+  url: https://zilch.com
+  description: "UK BNPL that works everywhere Mastercard is accepted, with cashback rewards"
+  category: BNPL
+  region: Europe
+  tags: [BNPL, cashback, UK, mastercard]
+  founded: 2018
+  hq: "London, UK"
+
+## Open Banking
+
+- name: Plaid
+  url: https://plaid.com
+  description: "API platform connecting applications to users' bank accounts across the US and Europe"
+  category: Open Banking
+  region: Global
+  tags: [API, bank-connectivity, data, fintech-infra]
+  founded: 2013
+  hq: "San Francisco, US"
+
+- name: Tink
+  url: https://tink.com
+  description: "Visa-owned open banking platform for payments, personal finance, and lending in Europe"
+  category: Open Banking
+  region: Europe
+  tags: [API, Europe, PSD2, payments, data]
+  founded: 2012
+  hq: "Stockholm, Sweden"
+
+- name: TrueLayer
+  url: https://truelayer.com
+  description: "Open banking network for instant bank payments, payouts, and financial data in Europe"
+  category: Open Banking
+  region: Europe
+  tags: [API, payments, payouts, PSD2]
+  founded: 2016
+  hq: "London, UK"
+
+- name: Yapily
+  url: https://yapily.com
+  description: "Open banking infrastructure connecting businesses to banks across Europe"
+  category: Open Banking
+  region: Europe
+  tags: [API, bank-connectivity, Europe, payments]
+  founded: 2017
+  hq: "London, UK"
+
+- name: Nordigen
+  url: https://nordigen.com
+  description: "GoCardless-owned open banking data platform with free tier for account information"
+  category: Open Banking
+  region: Europe
+  tags: [API, free-tier, account-data, Europe]
+  founded: 2019
+  hq: "Riga, Latvia"
+
+- name: Finicity
+  url: https://finicity.com
+  description: "Mastercard-owned open banking platform for financial data aggregation in North America"
+  category: Open Banking
+  region: Americas
+  tags: [API, data, lending, US, Mastercard]
+  founded: 1999
+  hq: "Salt Lake City, US"
+
+## Banking-as-a-Service
+
+- name: Marqeta
+  url: https://marqeta.com
+  description: "Modern card issuing platform powering neobanks and fintechs with programmable cards"
+  category: Banking-as-a-Service
+  region: Global
+  tags: [card-issuing, API, programmable, BaaS]
+  founded: 2010
+  hq: "Oakland, US"
+
+- name: Galileo
+  url: https://galileo-ft.com
+  description: "SoFi-owned API platform powering payment cards and digital banking infrastructure"
+  category: Banking-as-a-Service
+  region: Americas
+  tags: [card-issuing, API, BaaS, neobank-infra]
+  founded: 2000
+  hq: "Salt Lake City, US"
+
+- name: Solarisbank
+  url: https://solarisgroup.com
+  description: "German Banking-as-a-Service platform with a full banking license for embedded finance"
+  category: Banking-as-a-Service
+  region: Europe
+  tags: [BaaS, embedded-finance, Europe, licensed]
+  founded: 2016
+  hq: "Berlin, Germany"
+
+- name: Unit
+  url: https://unit.co
+  description: "US Banking-as-a-Service API for startups and platforms to embed financial features"
+  category: Banking-as-a-Service
+  region: Americas
+  tags: [BaaS, API, US, embedded-finance]
+  founded: 2019
+  hq: "New York, US"
+
+- name: Moov
+  url: https://moov.io
+  description: "Open-source-friendly money movement infrastructure for developers"
+  category: Banking-as-a-Service
+  region: Americas
+  tags: [BaaS, API, open-source, ACH, transfers]
+  founded: 2018
+  hq: "Cedar Falls, US"
+
+- name: Griffin
+  url: https://griffin.com
+  description: "UK Banking-as-a-Service platform with a full banking licence for fintechs"
+  category: Banking-as-a-Service
+  region: Europe
+  tags: [BaaS, UK, licensed, embedded-finance]
+  founded: 2017
+  hq: "London, UK"
+
+- name: Treasury Prime
+  url: https://treasuryprime.com
+  description: "US BaaS connecting banks and fintechs with embedded banking and compliance tools"
+  category: Banking-as-a-Service
+  region: Americas
+  tags: [BaaS, bank-fintech, compliance, US]
+  founded: 2017
+  hq: "San Francisco, US"
+
+## Crypto & Web3 Payments
+
+- name: BitPay
+  url: https://bitpay.com
+  description: "Leading cryptocurrency payment service provider for merchants and businesses"
+  category: Crypto Payments
+  region: Global
+  tags: [crypto, Bitcoin, merchants, B2B]
+  founded: 2011
+  hq: "Atlanta, US"
+
+- name: CoinGate
+  url: https://coingate.com
+  description: "European crypto payment gateway accepting 70+ cryptocurrencies for merchants"
+  category: Crypto Payments
+  region: Global
+  tags: [crypto, merchants, multi-coin, Europe]
+  founded: 2014
+  hq: "Vilnius, Lithuania"
+
+- name: Transak
+  url: https://transak.com
+  description: "Web3 onramp and offramp for purchasing crypto with fiat in 150+ countries"
+  category: Crypto Payments
+  region: Global
+  tags: [crypto, onramp, Web3, fiat-to-crypto]
+  founded: 2019
+  hq: "London, UK"
+
+- name: NOWPayments
+  url: https://nowpayments.io
+  description: "Non-custodial crypto payment gateway with 300+ accepted cryptocurrencies"
+  category: Crypto Payments
+  region: Global
+  tags: [crypto, non-custodial, merchants, multi-coin]
+  founded: 2019
+  hq: "Global"

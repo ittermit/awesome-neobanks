@@ -1,0 +1,139 @@
+---
+layout: default
+title: "Awesome Neobanks — Curated List of Neobanks & Payment Services"
+description: "A curated list of neobanks and payment services worldwide. Browse 70+ neobanks and 40+ payment systems by region and category."
+---
+
+<div class="filters-bar">
+  <div class="container">
+    <div class="filters-inner">
+      <div class="search-wrap">
+        <i class="search-icon">🔍</i>
+        <input type="text" id="search" placeholder="Search neobanks and payment services…" autocomplete="off">
+      </div>
+      <select id="region-filter" aria-label="Filter by region">
+        <option value="">All Regions</option>
+        <option value="europe">Europe</option>
+        <option value="americas">Americas</option>
+        <option value="asia">Asia-Pacific</option>
+        <option value="middle east">Middle East & Africa</option>
+        <option value="global">Global</option>
+      </select>
+      <select id="type-filter" aria-label="Filter by type">
+        <option value="">All Types</option>
+        <option value="neobank">Neobanks</option>
+        <option value="payment gateway">Payment Gateways</option>
+        <option value="cross-border">Cross-Border</option>
+        <option value="bnpl">BNPL</option>
+        <option value="open banking">Open Banking</option>
+        <option value="banking-as-a-service">Banking-as-a-Service</option>
+        <option value="crypto payments">Crypto Payments</option>
+      </select>
+      <span class="filter-count">
+        <strong id="visible-count">{{ site.data.neobanks | size | plus: site.data.payment_systems | size }}</strong> entries
+      </span>
+    </div>
+  </div>
+</div>
+
+<div class="content-area">
+  <div class="container">
+
+    <!-- ── Neobanks ─────────────────────── -->
+    {% assign neobank_regions = site.data.neobanks | map: "region" | uniq | sort %}
+
+    {% for region in neobank_regions %}
+      {% assign region_banks = site.data.neobanks | where: "region", region %}
+      {% if region_banks.size > 0 %}
+      {% assign region_id = region | downcase | replace: " ", "-" | replace: "&", "and" %}
+
+      <div class="section-block" data-section="neobanks-{{ region_id }}">
+        <div class="section-header">
+          <span class="section-emoji">
+            {% if region == "Europe" %}🇪🇺
+            {% elsif region == "Americas" %}🌎
+            {% elsif region == "Asia-Pacific" %}🌏
+            {% elsif region == "Middle East & Africa" %}🌍
+            {% else %}🌐{% endif %}
+          </span>
+          <h2 class="section-title">Neobanks — {{ region }}</h2>
+          <span class="section-count">{{ region_banks.size }}</span>
+        </div>
+        <div class="cards-grid">
+          {% for bank in region_banks %}
+          <div class="entry-card"
+               data-section="neobanks-{{ region_id }}"
+               data-region="{{ bank.region }}"
+               data-type="neobank">
+            <div class="card-name">
+              <a href="{{ bank.url }}" target="_blank" rel="noopener">{{ bank.name }} ↗</a>
+            </div>
+            <div class="card-description">{{ bank.description }}</div>
+            <div class="card-footer">
+              <span class="tag tag-region">{{ bank.region }}</span>
+              <span class="tag tag-type">Neobank</span>
+              {% for tag in bank.tags limit:3 %}
+              <span class="tag">{{ tag }}</span>
+              {% endfor %}
+              {% if bank.hq %}
+              <span class="card-hq">📍 {{ bank.hq }}</span>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+
+    <!-- ── Payment Systems ─────────────────── -->
+    {% assign payment_categories = site.data.payment_systems | map: "category" | uniq | sort %}
+
+    {% for category in payment_categories %}
+      {% assign cat_items = site.data.payment_systems | where: "category", category %}
+      {% if cat_items.size > 0 %}
+      {% assign cat_id = category | downcase | replace: " ", "-" | replace: "/", "-" %}
+
+      <div class="section-block" data-section="payments-{{ cat_id }}">
+        <div class="section-header">
+          <span class="section-emoji">
+            {% if category == "Payment Gateway" %}💳
+            {% elsif category == "Cross-Border" %}🌐
+            {% elsif category == "BNPL" %}🛍️
+            {% elsif category == "Open Banking" %}🔓
+            {% elsif category == "Banking-as-a-Service" %}🏗️
+            {% elsif category == "Crypto Payments" %}₿
+            {% else %}💰{% endif %}
+          </span>
+          <h2 class="section-title">{{ category }}</h2>
+          <span class="section-count">{{ cat_items.size }}</span>
+        </div>
+        <div class="cards-grid">
+          {% for item in cat_items %}
+          <div class="entry-card"
+               data-section="payments-{{ cat_id }}"
+               data-region="{{ item.region }}"
+               data-type="{{ item.category }}">
+            <div class="card-name">
+              <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }} ↗</a>
+            </div>
+            <div class="card-description">{{ item.description }}</div>
+            <div class="card-footer">
+              <span class="tag tag-region">{{ item.region }}</span>
+              <span class="tag tag-type">{{ item.category }}</span>
+              {% for tag in item.tags limit:3 %}
+              <span class="tag">{{ tag }}</span>
+              {% endfor %}
+              {% if item.hq %}
+              <span class="card-hq">📍 {{ item.hq }}</span>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+
+  </div>
+</div>

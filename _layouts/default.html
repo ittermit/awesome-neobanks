@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <div class="header-brand">
+          <h1 class="site-title">
+            <span class="emoji">🏦</span> Awesome Neobanks
+          </h1>
+          <p class="site-tagline">A curated list of neobanks and payment services worldwide</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span class="badge">{{ site.data.neobanks | size }} Neobanks</span>
+        <span class="badge">{{ site.data.payment_systems | size }} Payment Systems</span>
+        <span class="badge badge-outline">
+          <a href="https://github.com/ittermit/awesome-neobanks" target="_blank" rel="noopener">
+            ★ Star on GitHub
+          </a>
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h3>About this list</h3>
+          <p>A community-curated, open-source directory of neobanks and payment services. Updated regularly. <a href="https://github.com/ittermit/awesome-neobanks/blob/main/CONTRIBUTING.md">Contribute ↗</a></p>
+        </div>
+        <div class="footer-col">
+          <h3>Links</h3>
+          <ul>
+            <li><a href="https://github.com/ittermit/awesome-neobanks">GitHub Repository</a></li>
+            <li><a href="https://github.com/ittermit/awesome-neobanks/blob/main/CONTRIBUTING.md">How to Contribute</a></li>
+            <li><a href="https://github.com/ittermit/awesome-neobanks/blob/main/README.md">README</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>
+          <a href="https://github.com/ittermit/awesome-neobanks">awesome-neobanks</a> ·
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> · Public Domain
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Search and filter logic
+    const searchInput = document.getElementById('search');
+    const regionFilter = document.getElementById('region-filter');
+    const typeFilter = document.getElementById('type-filter');
+    const cards = document.querySelectorAll('.entry-card');
+    const counts = document.querySelectorAll('.section-count');
+
+    function normalize(s) {
+      return (s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    }
+
+    function filterCards() {
+      const query = normalize(searchInput ? searchInput.value : '');
+      const region = regionFilter ? normalize(regionFilter.value) : '';
+      const type = typeFilter ? normalize(typeFilter.value) : '';
+
+      let sectionCounts = {};
+
+      cards.forEach(card => {
+        const cardText = normalize(card.textContent);
+        const cardRegion = normalize(card.dataset.region || '');
+        const cardType = normalize(card.dataset.type || '');
+        const section = card.dataset.section;
+
+        const matchQuery = !query || cardText.includes(query);
+        const matchRegion = !region || cardRegion.includes(region);
+        const matchType = !type || cardType.includes(type);
+
+        const visible = matchQuery && matchRegion && matchType;
+        card.style.display = visible ? '' : 'none';
+
+        if (visible) {
+          sectionCounts[section] = (sectionCounts[section] || 0) + 1;
+        }
+      });
+
+      // Update section visibility
+      document.querySelectorAll('.section-block').forEach(section => {
+        const id = section.dataset.section;
+        const visibleCards = section.querySelectorAll('.entry-card:not([style*="display: none"])');
+        section.style.display = visibleCards.length > 0 ? '' : 'none';
+        const countEl = section.querySelector('.section-count');
+        if (countEl) countEl.textContent = visibleCards.length;
+      });
+
+      // Update total count
+      const total = document.querySelectorAll('.entry-card:not([style*="display: none"])').length;
+      const totalEl = document.getElementById('visible-count');
+      if (totalEl) totalEl.textContent = total;
+    }
+
+    if (searchInput) searchInput.addEventListener('input', filterCards);
+    if (regionFilter) regionFilter.addEventListener('change', filterCards);
+    if (typeFilter) typeFilter.addEventListener('change', filterCards);
+  </script>
+
+</body>
+</html>

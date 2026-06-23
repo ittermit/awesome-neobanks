@@ -1,0 +1,16 @@
+title: "Awesome Neobanks"
+description: "A curated list of neobanks and payment services worldwide"
+url: "https://ittermit.github.io"
+baseurl: "/awesome-neobanks"
+
+author: "ittermit"
+github_username: "ittermit"
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
