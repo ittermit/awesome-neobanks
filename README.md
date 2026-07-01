@@ -53,6 +53,7 @@
 | [TBC Bank (Space)](https://space.ge)      | 🇬🇪 Georgia      | Georgian digital bank with instant account opening                          |
 | [Kaspi Bank](https://kaspi.kz)            | 🇰🇿 Kazakhstan   | Super app combining banking, marketplace, and payments                      |
 | [Inbank](https://inbank.eu)               | 🇪🇪 Estonia      | BNPL and consumer finance across Central and Eastern Europe                 |
+| [Lunar](https://lunar.app)                | 🇩🇰 Denmark      | Nordic digital bank with personal and business accounts across Scandinavia  |
 
 ### Americas
 
