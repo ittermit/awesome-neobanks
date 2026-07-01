@@ -174,7 +174,7 @@
 | [Solarisbank](https://solarisgroup.com)     | German BaaS platform with a full banking license                       |
 | [Unit](https://unit.co)                     | US BaaS API for startups and platforms to embed financial features     |
 | [Moov](https://moov.io)                     | Open-source-friendly money movement infrastructure for developers      |
-| [Griffin](https://griffin.com)              | UK BaaS platform with a full banking licence for fintechs             |
+| [Griffin](https://griffin.com)              | UK BaaS platform with a full banking licence for fintechs              |
 | [Treasury Prime](https://treasuryprime.com) | US BaaS connecting banks and fintechs with compliance tools            |
 
 ### Crypto & Web3 Payments
