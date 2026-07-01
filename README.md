@@ -56,25 +56,26 @@
 
 ### Americas
 
-| Name                                    | Country      | Description                                                              |
-| --------------------------------------- | ------------ | ------------------------------------------------------------------------ |
-| [Chime](https://chime.com)              | 🇺🇸 US        | No monthly fees, early direct deposit, fee-free overdraft up to $200     |
-| [Current](https://current.com)          | 🇺🇸 US        | Targeting Gen Z and millennials with early paycheck access and cash back |
-| [Varo](https://varomoney.com)           | 🇺🇸 US        | First neobank with a US national bank charter, high-APY savings          |
-| [Dave](https://dave.com)                | 🇺🇸 US        | Interest-free cash advances and tools to avoid overdraft fees            |
-| [SoFi](https://sofi.com)                | 🇺🇸 US        | High-yield savings, investing, loans, and credit cards                   |
-| [Ally Bank](https://ally.com)           | 🇺🇸 US        | High-yield savings, no-fee checking, and auto loans                      |
-| [Mercury](https://mercury.com)          | 🇺🇸 US        | Business banking for startups and tech companies with API access         |
-| [Brex](https://brex.com)                | 🇺🇸 US        | Corporate card and spend management for startups and enterprises         |
-| [Relay](https://relayfi.com)            | 🇺🇸 US        | Business banking with multiple sub-accounts for organised cash flow      |
-| [Novo](https://novo.co)                 | 🇺🇸 US        | Business checking with Shopify, Stripe, and QuickBooks integrations      |
-| [Bluevine](https://bluevine.com)        | 🇺🇸 US        | Business banking with high-yield checking and credit lines               |
-| [Nubank](https://nu.com.br)             | 🇧🇷 Brazil    | Latin America's largest neobank — Brazil, Mexico, Colombia               |
-| [Neon](https://neon.com.br)             | 🇧🇷 Brazil    | Financial inclusion with free accounts and simple credit                 |
-| [Inter](https://inter.co)               | 🇧🇷 Brazil    | Complete financial ecosystem with investments and insurance              |
-| [Mercado Pago](https://mercadopago.com) | 🇦🇷 LatAm     | Leading fintech wallet across 7 Latin American countries                 |
-| [Ualá](https://uala.com.ar)             | 🇦🇷 Argentina | Prepaid Mastercard and financial services for the underbanked            |
-| [Klar](https://klar.mx)                 | 🇲🇽 Mexico    | No-fee debit card, cashback rewards, and instant credit                  |
+| Name                                    | Country         | Description                                                              |
+| --------------------------------------- | --------------- | ------------------------------------------------------------------------ |
+| [Chime](https://chime.com)              | 🇺🇸 US           | No monthly fees, early direct deposit, fee-free overdraft up to $200     |
+| [Current](https://current.com)          | 🇺🇸 US           | Targeting Gen Z and millennials with early paycheck access and cash back |
+| [Varo](https://varomoney.com)           | 🇺🇸 US           | First neobank with a US national bank charter, high-APY savings          |
+| [Dave](https://dave.com)                | 🇺🇸 US           | Interest-free cash advances and tools to avoid overdraft fees            |
+| [SoFi](https://sofi.com)                | 🇺🇸 US           | High-yield savings, investing, loans, and credit cards                   |
+| [Ally Bank](https://ally.com)           | 🇺🇸 US           | High-yield savings, no-fee checking, and auto loans                      |
+| [Mercury](https://mercury.com)          | 🇺🇸 US           | Business banking for startups and tech companies with API access         |
+| [Brex](https://brex.com)                | 🇺🇸 US           | Corporate card and spend management for startups and enterprises         |
+| [Relay](https://relayfi.com)            | 🇺🇸 US           | Business banking with multiple sub-accounts for organised cash flow      |
+| [Novo](https://novo.co)                 | 🇺🇸 US           | Business checking with Shopify, Stripe, and QuickBooks integrations      |
+| [Bluevine](https://bluevine.com)        | 🇺🇸 US           | Business banking with high-yield checking and credit lines               |
+| [Zolve](https://zolve.com)              | 🇺🇸 US / Canada  | Neobank for immigrants and global citizens — accounts and credit without local history |
+| [Nubank](https://nu.com.br)             | 🇧🇷 Brazil       | Latin America's largest neobank — Brazil, Mexico, Colombia               |
+| [Neon](https://neon.com.br)             | 🇧🇷 Brazil       | Financial inclusion with free accounts and simple credit                 |
+| [Inter](https://inter.co)               | 🇧🇷 Brazil       | Complete financial ecosystem with investments and insurance              |
+| [Mercado Pago](https://mercadopago.com) | 🇦🇷 LatAm        | Leading fintech wallet across 7 Latin American countries                 |
+| [Ualá](https://uala.com.ar)             | 🇦🇷 Argentina    | Prepaid Mastercard and financial services for the underbanked            |
+| [Klar](https://klar.mx)                 | 🇲🇽 Mexico       | No-fee debit card, cashback rewards, and instant credit                  |
 
 ### Asia-Pacific
 
@@ -173,17 +174,18 @@
 | [Solarisbank](https://solarisgroup.com)     | German BaaS platform with a full banking license                       |
 | [Unit](https://unit.co)                     | US BaaS API for startups and platforms to embed financial features     |
 | [Moov](https://moov.io)                     | Open-source-friendly money movement infrastructure for developers      |
-| [Griffin](https://griffin.com)              | UK BaaS platform with a full banking licence for fintechs              |
+| [Griffin](https://griffin.com)              | UK BaaS platform with a full banking licence for fintechs             |
 | [Treasury Prime](https://treasuryprime.com) | US BaaS connecting banks and fintechs with compliance tools            |
 
 ### Crypto & Web3 Payments
 
-| Name                                  | Description                                                    |
-| ------------------------------------- | -------------------------------------------------------------- |
-| [BitPay](https://bitpay.com)          | Leading cryptocurrency payment service provider for merchants  |
-| [CoinGate](https://coingate.com)      | European crypto payment gateway accepting 70+ cryptocurrencies |
-| [Transak](https://transak.com)        | Web3 fiat onramp and offramp for 150+ countries                |
-| [NOWPayments](https://nowpayments.io) | Non-custodial crypto payment gateway with 300+ coins supported |
+| Name                                  | Description                                                               |
+| ------------------------------------- | ------------------------------------------------------------------------- |
+| [BitPay](https://bitpay.com)          | Leading cryptocurrency payment service provider for merchants             |
+| [CoinGate](https://coingate.com)      | European crypto payment gateway accepting 70+ cryptocurrencies            |
+| [KAST](https://kast.xyz)              | Stablecoin-native neobank with USD accounts and payouts to 190+ countries |
+| [NOWPayments](https://nowpayments.io) | Non-custodial crypto payment gateway with 300+ coins supported            |
+| [Transak](https://transak.com)        | Web3 fiat onramp and offramp for 150+ countries                           |
 
 ### Directories & Catalogs
 
