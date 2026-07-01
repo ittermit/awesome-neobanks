@@ -338,6 +338,15 @@
   founded: 2013
   hq: "Redwood City, US"
 
+- name: Zolve
+  url: https://zolve.com
+  description: "Neobank for immigrants and global citizens — accounts and credit cards without local credit history required"
+  region: Americas
+  countries: [US, CA]
+  tags: [cards, credit, immigrants, transfers]
+  founded: 2021
+  hq: "Houston, US"
+
 ## Asia-Pacific
 
 - name: Kakao Bank
