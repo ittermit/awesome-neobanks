@@ -346,14 +346,14 @@
   founded: 2014
   hq: "Vilnius, Lithuania"
 
-- name: Transak
-  url: https://transak.com
-  description: "Web3 onramp and offramp for purchasing crypto with fiat in 150+ countries"
+- name: KAST
+  url: https://kast.xyz
+  description: "Stablecoin-native neobank with USD accounts and global payouts to 190+ countries"
   category: Crypto Payments
   region: Global
-  tags: [crypto, onramp, Web3, fiat-to-crypto]
-  founded: 2019
-  hq: "London, UK"
+  tags: [stablecoin, neobank, transfers, global, USD]
+  founded: 2024
+  hq: "Global"
 
 - name: NOWPayments
   url: https://nowpayments.io
@@ -363,3 +363,12 @@
   tags: [crypto, non-custodial, merchants, multi-coin]
   founded: 2019
   hq: "Global"
+
+- name: Transak
+  url: https://transak.com
+  description: "Web3 onramp and offramp for purchasing crypto with fiat in 150+ countries"
+  category: Crypto Payments
+  region: Global
+  tags: [crypto, onramp, Web3, fiat-to-crypto]
+  founded: 2019
+  hq: "London, UK"
