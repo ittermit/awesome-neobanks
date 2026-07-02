@@ -192,6 +192,15 @@
   founded: 2015
   hq: "Aarhus, Denmark"
 
+- name: Papara
+  url: https://papara.com
+  description: "Turkish digital payments platform and neobank offering cards, transfers, and savings accounts"
+  region: Europe
+  countries: [TR]
+  tags: [cards, transfers, savings, wallet, payments]
+  founded: 2016
+  hq: "Istanbul, Turkey"
+
 ## Americas
 
 - name: Chime
