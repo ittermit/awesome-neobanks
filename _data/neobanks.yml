@@ -187,7 +187,7 @@
   url: https://lunar.app
   description: "Nordic digital bank offering personal and business accounts across Denmark, Sweden, and Norway"
   region: Europe
-  countries: [DK, SE, NO]
+  countries: [DK, SE, "NO"]
   tags: [cards, savings, investments, business]
   founded: 2015
   hq: "Aarhus, Denmark"
