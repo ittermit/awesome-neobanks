@@ -475,6 +475,15 @@
   founded: 2004
   hq: "Taguig, Philippines"
 
+- name: Maya
+  url: https://maya.ph
+  description: "Philippine digital bank with high-interest savings, instant loans, crypto, and payments"
+  region: Asia-Pacific
+  countries: [PH]
+  tags: [cards, savings, loans, crypto, payments]
+  founded: 2013
+  hq: "Taguig, Philippines"
+
 - name: OVO
   url: https://ovo.id
   description: "Indonesia's leading e-wallet with payments, cashback, and financial services"
