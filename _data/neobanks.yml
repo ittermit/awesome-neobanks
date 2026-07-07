@@ -412,6 +412,15 @@
   founded: 2015
   hq: "Hangzhou, China"
 
+- name: Mox Bank
+  url: https://mox.com
+  description: "Hong Kong digital bank by Standard Chartered with high-yield savings and unlimited cashback"
+  region: Asia-Pacific
+  countries: [HK]
+  tags: [cards, savings, cashback, high-apy]
+  founded: 2020
+  hq: "Hong Kong"
+
 - name: Jupiter
   url: https://jupitermoney.com
   description: "Indian neobank offering smart savings, rewards, and insights on spending"

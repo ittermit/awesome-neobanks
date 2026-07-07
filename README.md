@@ -88,6 +88,7 @@
 | [K Bank](https://kbank.co.kr)       | 🇰🇷 South Korea | South Korea's first internet-only bank                            |
 | [WeBank](https://webank.com)        | 🇨🇳 China       | Internet-only bank backed by Tencent for consumers and SMEs       |
 | [MYbank](https://mybank.cn)         | 🇨🇳 China       | Ant Group's online bank serving small and micro enterprises       |
+| [Mox Bank](https://mox.com)         | 🇭🇰 Hong Kong   | Hong Kong neobank by Standard Chartered with savings and cashback |
 | [Jupiter](https://jupitermoney.com) | 🇮🇳 India       | Smart savings, rewards, and spending insights                     |
 | [Fi Money](https://fi.money)        | 🇮🇳 India       | Neobank for salaried professionals with investments               |
 | [Up](https://up.com.au)             | 🇦🇺 Australia   | Beautiful design, joint accounts, and automatic savings           |
