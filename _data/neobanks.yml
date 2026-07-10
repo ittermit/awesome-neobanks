@@ -576,6 +576,15 @@
   founded: 2019
   hq: "Lagos, Nigeria"
 
+- name: Moniepoint
+  url: https://moniepoint.com
+  description: "Nigerian business banking platform with POS terminals, digital accounts, and payment services for SMEs"
+  region: Middle East & Africa
+  countries: [NG]
+  tags: [business, POS, payments, SME, banking]
+  founded: 2015
+  hq: "Lagos, Nigeria"
+
 - name: TymeBank
   url: https://tymebank.co.za
   description: "South Africa's award-winning digital bank focused on financial inclusion"

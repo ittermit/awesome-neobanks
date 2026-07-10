@@ -111,6 +111,7 @@
 | [OPay](https://opayweb.com)        | 🇳🇬 Nigeria      | Fintech super app with mobile payments and banking             |
 | [Carbon](https://getcarbon.co)     | 🇳🇬 Nigeria      | Instant loans, payments, and investment products               |
 | [PalmPay](https://palmpay.com)     | 🇳🇬 Nigeria      | Africa-focused digital payments with merchant acquiring        |
+| [Moniepoint](https://moniepoint.com) | 🇳🇬 Nigeria    | Business accounts and payment terminals for SMEs across Nigeria |
 | [TymeBank](https://tymebank.co.za) | 🇿🇦 South Africa | Award-winning digital bank focused on financial inclusion      |
 | [M-Pesa](https://mpesa.africa)     | 🇰🇪 Kenya        | Africa's most successful mobile money platform                 |
 | [Telda](https://telda.app)         | 🇪🇬 Egypt        | Egyptian neobank with easy onboarding and instant transfers    |
