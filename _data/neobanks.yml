@@ -356,6 +356,15 @@
   founded: 2013
   hq: "Redwood City, US"
 
+- name: Upgrade
+  url: https://upgrade.com
+  description: "US fintech with rewards Visa card, personal loans, and cashback checking"
+  region: Americas
+  countries: [US]
+  tags: [cards, cashback, loans, credit]
+  founded: 2017
+  hq: "San Francisco, US"
+
 - name: Zolve
   url: https://zolve.com
   description: "Neobank for immigrants and global citizens — accounts and credit cards without local credit history required"
