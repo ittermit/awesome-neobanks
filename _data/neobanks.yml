@@ -120,6 +120,15 @@
   founded: 2013
   hq: "Durham, UK"
 
+- name: Chase UK
+  url: https://chase.co.uk
+  description: "JP Morgan's UK-only digital bank offering cashback on everyday purchases and fee-free overseas card use"
+  region: Europe
+  countries: [UK]
+  tags: [cards, cashback, savings, no-foreign-fees]
+  founded: 2021
+  hq: "London, UK"
+
 - name: Kroo
   url: https://kroo.com
   description: "UK social neobank with interest-bearing current accounts and group expense splitting"

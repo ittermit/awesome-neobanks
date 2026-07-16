@@ -46,6 +46,7 @@
 | [C24 Bank](https://c24.de)                | 🇩🇪 Germany      | Free accounts with interest-bearing features                                |
 | [Zopa](https://zopa.com)                  | 🇬🇧 UK           | Competitive savings, credit cards, and personal loans                       |
 | [Atom Bank](https://atombank.co.uk)       | 🇬🇧 UK           | App-only bank specialising in savings and mortgages                         |
+| [Chase UK](https://chase.co.uk)           | 🇬🇧 UK           | JP Morgan's UK digital bank with everyday cashback and fee-free card abroad |
 | [Kroo](https://kroo.com)                  | 🇬🇧 UK           | Social neobank with interest-bearing accounts and group expense splitting   |
 | [Finom](https://finom.eu)                 | 🇳🇱 EU           | Business banking with built-in invoicing and cashback                       |
 | [Paysera](https://paysera.com)            | 🇱🇹 Lithuania    | Multi-currency accounts and cheap international transfers                   |
