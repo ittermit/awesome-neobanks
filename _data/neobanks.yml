@@ -210,6 +210,15 @@
   founded: 2016
   hq: "Istanbul, Turkey"
 
+- name: Openbank
+  url: https://openbank.com
+  description: "Santander's fully digital bank offering high-yield savings, fee-free accounts, and investments"
+  region: Europe
+  countries: [ES, DE, NL, PT, AR]
+  tags: [savings, cards, investments, no-fee]
+  founded: 1995
+  hq: "Madrid, Spain"
+
 ## Americas
 
 - name: Chime
