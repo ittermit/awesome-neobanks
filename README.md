@@ -102,6 +102,7 @@
 | [GCash](https://gcash.com)          | 🇵🇭 Philippines | Philippines' most popular mobile wallet with banking features     |
 | [Maya](https://maya.ph)             | 🇵🇭 Philippines | Philippine digital bank with accounts, savings, loans, and crypto |
 | [OVO](https://ovo.id)               | 🇮🇩 Indonesia   | Leading e-wallet with payments, cashback, and financial services  |
+| [Jenius](https://jenius.com)        | 🇮🇩 Indonesia   | Indonesian digital bank with savings, investments, and transfers  |
 
 ### Middle East & Africa
 

@@ -538,6 +538,15 @@
   founded: 2017
   hq: "Jakarta, Indonesia"
 
+- name: Jenius
+  url: https://jenius.com
+  description: "Indonesian digital bank by SMBC offering savings, smart credit, investments, and instant transfers"
+  region: Asia-Pacific
+  countries: [ID]
+  tags: [cards, savings, investments, transfers, credit]
+  founded: 2016
+  hq: "Jakarta, Indonesia"
+
 ## Middle East & Africa
 
 - name: Wio Bank
