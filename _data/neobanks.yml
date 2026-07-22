@@ -365,6 +365,15 @@
   founded: 2019
   hq: "Mexico City, Mexico"
 
+- name: Koho
+  url: https://koho.ca
+  description: "Canadian neobank offering a no-fee spending account, cashback rewards, and credit building"
+  region: Americas
+  countries: [CA]
+  tags: [cards, cashback, credit, no-fee]
+  founded: 2014
+  hq: "Toronto, Canada"
+
 - name: Bluevine
   url: https://bluevine.com
   description: "US business banking with high-yield checking and lines of credit for small businesses"

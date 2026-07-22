@@ -81,6 +81,7 @@
 | [Mercado Pago](https://mercadopago.com) | 🇦🇷 LatAm        | Leading fintech wallet across 7 Latin American countries                 |
 | [Ualá](https://uala.com.ar)             | 🇦🇷 Argentina    | Prepaid Mastercard and financial services for the underbanked            |
 | [Klar](https://klar.mx)                 | 🇲🇽 Mexico       | No-fee debit card, cashback rewards, and instant credit                  |
+| [Koho](https://koho.ca)                 | 🇨🇦 Canada       | No-fee spending account, cashback rewards, and credit building tools     |
 
 ### Asia-Pacific
 
