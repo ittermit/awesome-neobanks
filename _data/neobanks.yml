@@ -219,6 +219,15 @@
   founded: 1995
   hq: "Madrid, Spain"
 
+- name: Nickel
+  url: https://nickel.eu
+  description: "French neobank offering accessible bank accounts distributed via tobacco shops with no income or credit check"
+  region: Europe
+  countries: [FR, BE, ES, PT, DE]
+  tags: [cards, inclusion, no-fee, accessible]
+  founded: 2014
+  hq: "Paris, France"
+
 ## Americas
 
 - name: Chime

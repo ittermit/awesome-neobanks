@@ -57,6 +57,7 @@
 | [Lunar](https://lunar.app)                | 🇩🇰 Denmark      | Nordic digital bank with personal and business accounts across Scandinavia  |
 | [Papara](https://papara.com)              | 🇹🇷 Turkey       | Popular Turkish fintech app with cards, transfers, and savings for millions |
 | [Openbank](https://openbank.com)          | 🇪🇸 Spain        | Santander's digital bank with high-yield savings and no monthly fees        |
+| [Nickel](https://nickel.eu)               | 🇫🇷 France       | Accessible accounts via tobacconists with no income or credit check needed  |
 
 ### Americas
 
