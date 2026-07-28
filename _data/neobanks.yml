@@ -556,6 +556,15 @@
   founded: 2016
   hq: "Jakarta, Indonesia"
 
+- name: ZA Bank
+  url: https://za.bank
+  description: "Hong Kong's first licensed virtual bank with savings accounts, personal loans, and instant transfers"
+  region: Asia-Pacific
+  countries: [HK]
+  tags: [savings, loans, transfers, cards, virtual-bank]
+  founded: 2019
+  hq: "Hong Kong"
+
 ## Middle East & Africa
 
 - name: Wio Bank

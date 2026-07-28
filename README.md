@@ -104,6 +104,7 @@
 | [Maya](https://maya.ph)             | 🇵🇭 Philippines | Philippine digital bank with accounts, savings, loans, and crypto |
 | [OVO](https://ovo.id)               | 🇮🇩 Indonesia   | Leading e-wallet with payments, cashback, and financial services  |
 | [Jenius](https://jenius.com)        | 🇮🇩 Indonesia   | Indonesian digital bank with savings, investments, and transfers  |
+| [ZA Bank](https://za.bank)          | 🇭🇰 Hong Kong   | Hong Kong virtual bank with savings, loans, and instant transfers |
 
 ### Middle East & Africa
 
