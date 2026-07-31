@@ -383,6 +383,15 @@
   founded: 2014
   hq: "Toronto, Canada"
 
+- name: EQ Bank
+  url: https://eqbank.ca
+  description: "Canadian digital bank offering competitive savings rates, no-fee accounts, and GICs"
+  region: Americas
+  countries: [CA]
+  tags: [savings, high-apy, no-fee, GIC]
+  founded: 2016
+  hq: "Toronto, Canada"
+
 - name: Bluevine
   url: https://bluevine.com
   description: "US business banking with high-yield checking and lines of credit for small businesses"

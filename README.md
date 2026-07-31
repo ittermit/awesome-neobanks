@@ -83,6 +83,7 @@
 | [Ualá](https://uala.com.ar)             | 🇦🇷 Argentina    | Prepaid Mastercard and financial services for the underbanked            |
 | [Klar](https://klar.mx)                 | 🇲🇽 Mexico       | No-fee debit card, cashback rewards, and instant credit                  |
 | [Koho](https://koho.ca)                 | 🇨🇦 Canada       | No-fee spending account, cashback rewards, and credit building tools     |
+| [EQ Bank](https://eqbank.ca)            | 🇨🇦 Canada       | Canadian digital bank with competitive savings rates and no monthly fees |
 
 ### Asia-Pacific
 
