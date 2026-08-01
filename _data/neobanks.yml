@@ -683,3 +683,12 @@
   tags: [cards, transfers, savings]
   founded: 2020
   hq: "Cairo, Egypt"
+
+- name: Wave
+  url: https://wave.com
+  description: "West African mobile money service with near-zero transfer fees across six countries"
+  region: Middle East & Africa
+  countries: [SN, CI, BF, ML, UG, ZM]
+  tags: [mobile-money, transfers, payments, low-fee]
+  founded: 2018
+  hq: "Dakar, Senegal"

@@ -123,6 +123,7 @@
 | [TymeBank](https://tymebank.co.za) | 🇿🇦 South Africa | Award-winning digital bank focused on financial inclusion      |
 | [M-Pesa](https://mpesa.africa)     | 🇰🇪 Kenya        | Africa's most successful mobile money platform                 |
 | [Telda](https://telda.app)         | 🇪🇬 Egypt        | Egyptian neobank with easy onboarding and instant transfers    |
+| [Wave](https://wave.com)           | 🇸🇳 West Africa  | West African mobile money service with near-zero transfer fees |
 
 <!-- lint enable table-pipe-alignment table-cell-padding -->
 
