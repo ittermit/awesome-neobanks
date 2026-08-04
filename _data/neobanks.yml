@@ -529,6 +529,15 @@
   founded: 2021
   hq: "Singapore"
 
+- name: Trust Bank
+  url: https://trustbank.sg
+  description: "Singapore digital bank by Standard Chartered and FairPrice Group with savings and credit cards"
+  region: Asia-Pacific
+  countries: [SG]
+  tags: [savings, cards, credit, digital-bank]
+  founded: 2022
+  hq: "Singapore"
+
 - name: GCash
   url: https://gcash.com
   description: "Philippines' most popular mobile wallet with banking, investments, and insurance services"
