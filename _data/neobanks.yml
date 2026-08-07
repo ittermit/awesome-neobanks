@@ -392,6 +392,15 @@
   founded: 2016
   hq: "Toronto, Canada"
 
+- name: Lili
+  url: https://lili.co
+  description: "US banking app for freelancers and self-employed with built-in tax tools and expense tracking"
+  region: Americas
+  countries: [US]
+  tags: [business, freelancers, tax, expense-tracking, savings]
+  founded: 2018
+  hq: "New York, US"
+
 - name: Bluevine
   url: https://bluevine.com
   description: "US business banking with high-yield checking and lines of credit for small businesses"
