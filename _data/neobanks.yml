@@ -392,6 +392,15 @@
   founded: 2016
   hq: "Toronto, Canada"
 
+- name: Wealthsimple
+  url: https://wealthsimple.com
+  description: "Canadian fintech platform offering commission-free investing, crypto trading, and high-yield savings"
+  region: Americas
+  countries: [CA]
+  tags: [investing, crypto, savings, no-fee, tax]
+  founded: 2014
+  hq: "Toronto, Canada"
+
 - name: Lili
   url: https://lili.co
   description: "US banking app for freelancers and self-employed with built-in tax tools and expense tracking"

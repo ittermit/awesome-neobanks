@@ -84,6 +84,7 @@
 | [Klar](https://klar.mx)                 | 🇲🇽 Mexico       | No-fee debit card, cashback rewards, and instant credit                  |
 | [Koho](https://koho.ca)                 | 🇨🇦 Canada       | No-fee spending account, cashback rewards, and credit building tools     |
 | [EQ Bank](https://eqbank.ca)            | 🇨🇦 Canada       | Canadian digital bank with competitive savings rates and no monthly fees |
+| [Wealthsimple](https://wealthsimple.com) | 🇨🇦 Canada      | Canadian fintech for investing, crypto, and high-yield savings accounts  |
 | [Lili](https://lili.co)                 | 🇺🇸 US           | Banking app for freelancers with built-in tax tools and savings accounts |
 
 ### Asia-Pacific
