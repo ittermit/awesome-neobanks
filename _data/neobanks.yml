@@ -228,6 +228,15 @@
   founded: 2014
   hq: "Paris, France"
 
+- name: OakNorth
+  url: https://oaknorth.com
+  description: "UK digital bank for SMEs and entrepreneurs offering competitive savings and business loans"
+  region: Europe
+  countries: [UK]
+  tags: [business, SME, loans, savings, fixed-term]
+  founded: 2015
+  hq: "London, UK"
+
 ## Americas
 
 - name: Chime
