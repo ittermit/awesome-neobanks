@@ -87,6 +87,7 @@
 | [EQ Bank](https://eqbank.ca)            | 🇨🇦 Canada       | Canadian digital bank with competitive savings rates and no monthly fees |
 | [Wealthsimple](https://wealthsimple.com) | 🇨🇦 Canada      | Canadian fintech for investing, crypto, and high-yield savings accounts  |
 | [Lili](https://lili.co)                 | 🇺🇸 US           | Banking app for freelancers with built-in tax tools and savings accounts |
+| [Step](https://step.com)                | 🇺🇸 US           | Teen-focused neobank with fee-free Visa card, savings, and credit building tools |
 
 ### Asia-Pacific
 

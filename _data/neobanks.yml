@@ -419,6 +419,15 @@
   founded: 2018
   hq: "New York, US"
 
+- name: Step
+  url: https://step.com
+  description: "US teen banking app with a fee-free Visa card, savings account, and tools to build credit"
+  region: Americas
+  countries: [US]
+  tags: [cards, teen, no-fee, savings, credit]
+  founded: 2018
+  hq: "San Francisco, US"
+
 - name: Bluevine
   url: https://bluevine.com
   description: "US business banking with high-yield checking and lines of credit for small businesses"
