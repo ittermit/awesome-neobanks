@@ -48,6 +48,7 @@
 | [Atom Bank](https://atombank.co.uk)       | 🇬🇧 UK           | App-only bank specialising in savings and mortgages                         |
 | [Chase UK](https://chase.co.uk)           | 🇬🇧 UK           | JP Morgan's UK digital bank with everyday cashback and fee-free card abroad |
 | [Kroo](https://kroo.com)                  | 🇬🇧 UK           | Social neobank with interest-bearing accounts and group expense splitting   |
+| [Curve](https://curve.com)               | 🇬🇧 UK           | UK fintech combining all your bank cards into one smart card with cashback  |
 | [Finom](https://finom.eu)                 | 🇳🇱 EU           | Business banking with built-in invoicing and cashback                       |
 | [Paysera](https://paysera.com)            | 🇱🇹 Lithuania    | Multi-currency accounts and cheap international transfers                   |
 | [Monobank](https://monobank.ua)           | 🇺🇦 Ukraine      | Ukraine's largest neobank with cashback card and instant loans              |

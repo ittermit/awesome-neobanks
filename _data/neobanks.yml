@@ -138,6 +138,15 @@
   founded: 2016
   hq: "London, UK"
 
+- name: Curve
+  url: https://curve.com
+  description: "UK card aggregator combining all your debit and credit cards into one Curve card with cashback and purchase protection"
+  region: Europe
+  countries: [UK, EU]
+  tags: [cards, cashback, aggregator, travel, rewards]
+  founded: 2015
+  hq: "London, UK"
+
 - name: Finom
   url: https://finom.eu
   description: "European business banking platform with built-in invoicing, expense tracking, and cashback"
