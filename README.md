@@ -112,6 +112,7 @@
 | [OVO](https://ovo.id)               | 🇮🇩 Indonesia   | Leading e-wallet with payments, cashback, and financial services  |
 | [Jenius](https://jenius.com)        | 🇮🇩 Indonesia   | Indonesian digital bank with savings, investments, and transfers  |
 | [ZA Bank](https://za.bank)          | 🇭🇰 Hong Kong   | Hong Kong virtual bank with savings, loans, and instant transfers |
+| [MoMo](https://momo.vn)             | 🇻🇳 Vietnam     | Vietnam's most popular mobile wallet with payments and banking    |
 
 ### Middle East & Africa
 

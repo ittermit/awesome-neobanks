@@ -628,6 +628,15 @@
   founded: 2019
   hq: "Hong Kong"
 
+- name: MoMo
+  url: https://momo.vn
+  description: "Vietnam's most popular mobile wallet and financial super app for payments, transfers, and banking"
+  region: Asia-Pacific
+  countries: [VN]
+  tags: [wallet, payments, transfers, banking, super-app]
+  founded: 2007
+  hq: "Ho Chi Minh City, Vietnam"
+
 ## Middle East & Africa
 
 - name: Wio Bank
