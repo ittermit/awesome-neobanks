@@ -628,6 +628,15 @@
   founded: 2019
   hq: "Hong Kong"
 
+- name: Aspire
+  url: https://aspireapp.com
+  description: "Business neobank for Southeast Asian startups and SMEs with corporate cards, multi-currency accounts, and expense management"
+  region: Asia-Pacific
+  countries: [SG, ID, VN, TH, PH]
+  tags: [business, startup, cards, multi-currency, expense-management]
+  founded: 2018
+  hq: "Singapore"
+
 - name: MoMo
   url: https://momo.vn
   description: "Vietnam's most popular mobile wallet and financial super app for payments, transfers, and banking"
