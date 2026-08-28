@@ -437,6 +437,15 @@
   founded: 2018
   hq: "San Francisco, US"
 
+- name: Greenlight
+  url: https://greenlight.com
+  description: "US family banking app with parent-controlled debit cards for kids and teens, savings goals, and investing"
+  region: Americas
+  countries: [US]
+  tags: [cards, teen, kids, savings, investing, parental-controls]
+  founded: 2014
+  hq: "Atlanta, US"
+
 - name: Bluevine
   url: https://bluevine.com
   description: "US business banking with high-yield checking and lines of credit for small businesses"
