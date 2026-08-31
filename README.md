@@ -77,6 +77,7 @@
 | [Novo](https://novo.co)                 | 🇺🇸 US           | Business checking with Shopify, Stripe, and QuickBooks integrations      |
 | [Bluevine](https://bluevine.com)        | 🇺🇸 US           | Business banking with high-yield checking and credit lines               |
 | [Upgrade](https://upgrade.com)          | 🇺🇸 US           | US fintech with rewards Visa card, personal loans, and cashback checking |
+| [MoneyLion](https://moneylion.com)      | 🇺🇸 US           | Fintech super app with checking, advances, credit builder, and investing |
 | [Zolve](https://zolve.com)              | 🇺🇸 US / Canada  | Neobank for immigrants and global citizens — accounts and credit without local history |
 | [Nubank](https://nu.com.br)             | 🇧🇷 Brazil       | Latin America's largest neobank — Brazil, Mexico, Colombia               |
 | [Neon](https://neon.com.br)             | 🇧🇷 Brazil       | Financial inclusion with free accounts and simple credit                 |

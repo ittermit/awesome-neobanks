@@ -464,6 +464,15 @@
   founded: 2017
   hq: "San Francisco, US"
 
+- name: MoneyLion
+  url: https://moneylion.com
+  description: "US fintech super app with checking accounts, cash advances, credit builder loans, and investing"
+  region: Americas
+  countries: [US]
+  tags: [cards, savings, credit, advances, investing, credit-builder]
+  founded: 2013
+  hq: "New York, US"
+
 - name: Zolve
   url: https://zolve.com
   description: "Neobank for immigrants and global citizens — accounts and credit cards without local credit history required"
