@@ -65,6 +65,7 @@
 
 | Name                                    | Country         | Description                                                              |
 | --------------------------------------- | --------------- | ------------------------------------------------------------------------ |
+| [Cash App](https://cash.app)            | 🇺🇸 US           | US payments app by Block for P2P transfers, banking, and stock investing |
 | [Chime](https://chime.com)              | 🇺🇸 US           | No monthly fees, early direct deposit, fee-free overdraft up to $200     |
 | [Current](https://current.com)          | 🇺🇸 US           | Targeting Gen Z and millennials with early paycheck access and cash back |
 | [Varo](https://varomoney.com)           | 🇺🇸 US           | First neobank with a US national bank charter, high-APY savings          |

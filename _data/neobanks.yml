@@ -248,6 +248,15 @@
 
 ## Americas
 
+- name: Cash App
+  url: https://cash.app
+  description: "US peer-to-peer payments and banking app by Block with Bitcoin and stock investing"
+  region: Americas
+  countries: [US]
+  tags: [cards, transfers, investing, bitcoin, p2p]
+  founded: 2013
+  hq: "San Francisco, US"
+
 - name: Chime
   url: https://chime.com
   description: "US neobank with no monthly fees, early direct deposit, and fee-free overdraft up to $200"
