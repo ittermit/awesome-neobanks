@@ -246,6 +246,15 @@
   founded: 2015
   hq: "London, UK"
 
+- name: Pleo
+  url: https://pleo.io
+  description: "European business expense management platform with smart Mastercard company cards, automated receipt capture, and spend controls"
+  region: Europe
+  countries: [DK, SE, DE, ES, UK, FR, IT, NL, BE, FI]
+  tags: [business, expense-management, cards, corporate]
+  founded: 2015
+  hq: "Copenhagen, Denmark"
+
 ## Americas
 
 - name: Cash App
