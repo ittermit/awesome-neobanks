@@ -42,8 +42,8 @@
 | [Qonto](https://qonto.com)                | 🇫🇷 France       | Business banking for freelancers and SMEs across Europe                     |
 | [Tide](https://tide.co)                   | 🇬🇧 UK           | Business banking platform for SMEs and sole traders                         |
 | [Monese](https://monese.com)              | 🇬🇧 UK           | Neobank for migrants and expats, instant account without local address      |
-| [Tomorrow](https://tomorrow.one)          | 🇩🇪 Germany      | Sustainable bank — plants trees with every purchase                         |
-| [C24 Bank](https://c24.de)                | 🇩🇪 Germany      | Free accounts with interest-bearing features                                |
+| [Tomorrow](https://tomorrow.one)          | 🇩🇪 Germany      | German ethical neobank that plants trees with every purchase and green bonds |
+| [C24 Bank](https://c24.de)                | 🇩🇪 Germany      | German digital bank by Check24 with free accounts and competitive savings   |
 | [Zopa](https://zopa.com)                  | 🇬🇧 UK           | Competitive savings, credit cards, and personal loans                       |
 | [Atom Bank](https://atombank.co.uk)       | 🇬🇧 UK           | App-only bank specialising in savings and mortgages                         |
 | [Chase UK](https://chase.co.uk)           | 🇬🇧 UK           | JP Morgan's UK digital bank with everyday cashback and fee-free card abroad |

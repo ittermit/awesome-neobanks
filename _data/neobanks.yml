@@ -86,7 +86,7 @@
 
 - name: Tomorrow
   url: https://tomorrow.one
-  description: "Sustainable German neobank that plants trees with every purchase and invests deposits ethically"
+  description: "German ethical neobank that plants trees with every card purchase and invests in certified green bonds"
   region: Europe
   countries: [DE]
   tags: [eco, savings, cards, sustainable]
@@ -95,7 +95,7 @@
 
 - name: C24 Bank
   url: https://c24.de
-  description: "German neobank offering free accounts with interest-bearing features and instant payments"
+  description: "German digital bank by Check24 offering free accounts, competitive savings rates, and a Visa card"
   region: Europe
   countries: [DE]
   tags: [cards, savings, free-account]
