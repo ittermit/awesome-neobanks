@@ -691,6 +691,15 @@
   founded: 2021
   hq: "Jakarta, Indonesia"
 
+- name: Rakuten Bank
+  url: https://rakuten-bank.co.jp
+  description: "Japan's largest internet-only bank with high-yield savings, investments, and Rakuten ecosystem rewards"
+  region: Asia-Pacific
+  countries: [JP]
+  tags: [savings, investments, cards, internet-bank, rewards]
+  founded: 2000
+  hq: "Tokyo, Japan"
+
 ## Middle East & Africa
 
 - name: Wio Bank

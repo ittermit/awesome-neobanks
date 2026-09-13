@@ -119,6 +119,7 @@
 | [Aspire](https://aspireapp.com)     | 🇸🇬 Singapore   | Business neobank for Southeast Asian startups with corporate cards and multi-currency accounts |
 | [MoMo](https://momo.vn)             | 🇻🇳 Vietnam     | Vietnam's most popular mobile wallet with payments and banking    |
 | [Bank Jago](https://jago.com)       | 🇮🇩 Indonesia   | GoTo-backed digital bank with savings, investments, and transfers |
+| [Rakuten Bank](https://rakuten-bank.co.jp) | 🇯🇵 Japan      | Japan's largest internet-only bank with savings, investments, and Rakuten rewards |
 
 ### Middle East & Africa
 
