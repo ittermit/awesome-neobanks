@@ -464,6 +464,15 @@
   founded: 2014
   hq: "Atlanta, US"
 
+- name: ONE
+  url: https://one.app
+  description: "Walmart-backed US neobank offering checking accounts, high-yield savings pockets, and early paycheck access"
+  region: Americas
+  countries: [US]
+  tags: [cards, savings, early-paycheck, no-fee]
+  founded: 2022
+  hq: "Bentonville, US"
+
 - name: Bluevine
   url: https://bluevine.com
   description: "US business banking with high-yield checking and lines of credit for small businesses"

@@ -93,6 +93,7 @@
 | [Lili](https://lili.co)                 | 🇺🇸 US           | Banking app for freelancers with built-in tax tools and savings accounts |
 | [Step](https://step.com)                | 🇺🇸 US           | Teen-focused neobank with fee-free Visa card, savings, and credit building tools |
 | [Greenlight](https://greenlight.com)    | 🇺🇸 US           | US teen banking with parental controls, savings goals, and investing     |
+| [ONE](https://one.app)                  | 🇺🇸 US           | Walmart-backed neobank with checking, savings, and early paycheck access |
 
 ### Asia-Pacific
 
