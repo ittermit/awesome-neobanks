@@ -44,7 +44,7 @@
 | [Monese](https://monese.com)              | 🇬🇧 UK           | Neobank for migrants and expats, instant account without local address      |
 | [Tomorrow](https://tomorrow.one)          | 🇩🇪 Germany      | German ethical neobank that plants trees with every purchase and green bonds |
 | [C24 Bank](https://c24.de)                | 🇩🇪 Germany      | German digital bank by Check24 with free accounts and competitive savings   |
-| [Zopa](https://zopa.com)                  | 🇬🇧 UK           | Competitive savings, credit cards, and personal loans                       |
+| [Zopa](https://zopa.com)                  | 🇬🇧 UK           | UK challenger bank with high-yield savings, credit cards, and loans       |
 | [Atom Bank](https://atombank.co.uk)       | 🇬🇧 UK           | App-only bank specialising in savings and mortgages                         |
 | [Chase UK](https://chase.co.uk)           | 🇬🇧 UK           | JP Morgan's UK digital bank with everyday cashback and fee-free card abroad |
 | [Kroo](https://kroo.com)                  | 🇬🇧 UK           | Social neobank with interest-bearing accounts and group expense splitting   |

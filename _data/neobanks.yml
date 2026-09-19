@@ -104,7 +104,7 @@
 
 - name: Zopa
   url: https://zopa.com
-  description: "UK neobank offering competitive savings, credit cards, and personal loans"
+  description: "UK challenger bank offering high-yield savings accounts, credit cards, and personal loans"
   region: Europe
   countries: [UK]
   tags: [savings, credit-card, loans]
