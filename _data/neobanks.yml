@@ -500,6 +500,15 @@
   founded: 2013
   hq: "New York, US"
 
+- name: Majority
+  url: https://majority.com
+  description: "US mobile banking for immigrants with international calling plans, remittances, and a debit card"
+  region: Americas
+  countries: [US]
+  tags: [cards, transfers, immigrants, calling, remittances]
+  founded: 2019
+  hq: "Austin, US"
+
 - name: Zolve
   url: https://zolve.com
   description: "Neobank for immigrants and global citizens — accounts and credit cards without local credit history required"
