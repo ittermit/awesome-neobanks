@@ -255,6 +255,15 @@
   founded: 2015
   hq: "Copenhagen, Denmark"
 
+- name: Yuh
+  url: https://yuh.com
+  description: "Swiss digital bank by PostFinance and Swissquote with free banking, savings, and investing"
+  region: Europe
+  countries: [CH]
+  tags: [cards, savings, investments, crypto]
+  founded: 2021
+  hq: "Zurich, Switzerland"
+
 ## Americas
 
 - name: Cash App

@@ -61,6 +61,7 @@
 | [Nickel](https://nickel.eu)               | 🇫🇷 France       | Accessible accounts via tobacconists with no income or credit check needed  |
 | [OakNorth](https://oaknorth.com)          | 🇬🇧 UK           | UK challenger bank for SMEs with business loans and competitive savings     |
 | [Pleo](https://pleo.io)                   | 🇩🇰 Denmark / EU | Smart company cards and automated expense management for European businesses |
+| [Yuh](https://yuh.com)                    | 🇨🇭 Switzerland  | Swiss neobank by PostFinance and Swissquote with free banking and investing |
 
 ### Americas
 
