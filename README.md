@@ -62,6 +62,7 @@
 | [OakNorth](https://oaknorth.com)          | 🇬🇧 UK           | UK challenger bank for SMEs with business loans and competitive savings     |
 | [Pleo](https://pleo.io)                   | 🇩🇰 Denmark / EU | Smart company cards and automated expense management for European businesses |
 | [Yuh](https://yuh.com)                    | 🇨🇭 Switzerland  | Swiss neobank by PostFinance and Swissquote with free banking and investing |
+| [Allica Bank](https://allica.bank)        | 🇬🇧 UK           | UK challenger bank for established SMEs with business accounts and savings  |
 
 ### Americas
 

@@ -264,6 +264,15 @@
   founded: 2021
   hq: "Zurich, Switzerland"
 
+- name: Allica Bank
+  url: https://allica.bank
+  description: "UK challenger bank for established SMEs offering business current accounts, savings, and commercial mortgages"
+  region: Europe
+  countries: [UK]
+  tags: [business, SME, savings, mortgages, accounts]
+  founded: 2019
+  hq: "London, UK"
+
 ## Americas
 
 - name: Cash App
