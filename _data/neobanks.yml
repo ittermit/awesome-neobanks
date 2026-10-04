@@ -338,6 +338,15 @@
   founded: 2009
   hq: "Detroit, US"
 
+- name: Albert
+  url: https://albert.com
+  description: "US fintech app with AI-powered savings, instant cash advances, checking account, and investing"
+  region: Americas
+  countries: [US]
+  tags: [savings, cash-advance, investing, checking, budgeting]
+  founded: 2016
+  hq: "Los Angeles, US"
+
 - name: Mercury
   url: https://mercury.com
   description: "US business banking platform for startups and tech companies with advanced API access"

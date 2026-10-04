@@ -75,6 +75,7 @@
 | [Dave](https://dave.com)                | 🇺🇸 US           | Interest-free cash advances and tools to avoid overdraft fees            |
 | [SoFi](https://sofi.com)                | 🇺🇸 US           | High-yield savings, investing, loans, and credit cards                   |
 | [Ally Bank](https://ally.com)           | 🇺🇸 US           | High-yield savings, no-fee checking, and auto loans                      |
+| [Albert](https://albert.com)            | 🇺🇸 US           | US fintech with AI-powered savings, instant cash advances, and investing |
 | [Mercury](https://mercury.com)          | 🇺🇸 US           | Business banking for startups and tech companies with API access         |
 | [Brex](https://brex.com)                | 🇺🇸 US           | Corporate card and spend management for startups and enterprises         |
 | [Relay](https://relayfi.com)            | 🇺🇸 US           | Business banking with multiple sub-accounts for organised cash flow      |
