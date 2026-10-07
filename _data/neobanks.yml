@@ -754,6 +754,15 @@
   founded: 2019
   hq: "Singapore"
 
+- name: GXS Bank
+  url: https://gxs.com.sg
+  description: "Singapore digital bank by Grab and Singtel with high-yield savings accounts and instant personal loans"
+  region: Asia-Pacific
+  countries: [SG]
+  tags: [savings, loans, digital-bank, high-apy]
+  founded: 2022
+  hq: "Singapore"
+
 ## Middle East & Africa
 
 - name: Wio Bank

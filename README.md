@@ -126,6 +126,7 @@
 | [Bank Jago](https://jago.com)       | 🇮🇩 Indonesia   | GoTo-backed digital bank with savings, investments, and transfers |
 | [Rakuten Bank](https://rakuten-bank.co.jp) | 🇯🇵 Japan      | Japan's largest internet-only bank with savings, investments, and Rakuten rewards |
 | [TMRW](https://tmrwbyuob.com)              | 🇸🇬 SEA        | UOB's mobile-first digital bank for millennials in Thailand and Indonesia          |
+| [GXS Bank](https://gxs.com.sg)             | 🇸🇬 Singapore  | Digital bank by Grab and Singtel with high-yield savings and instant loans         |
 
 ### Middle East & Africa
 
@@ -244,6 +245,6 @@ before submitting a pull request.
 - Keep entries sorted alphabetically within each section
 - Update `_data/neobanks.yml` or `_data/payment_systems.yml` for the website
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/pressmark/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [ittermit](https://github.com/ittermit) has waived all copyright and related or neighboring rights to this work.
